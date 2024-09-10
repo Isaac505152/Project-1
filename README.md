@@ -1,1 +1,3 @@
-# Project-US ATLAS 2024 SUPER PROGRAM
+Title: Identifying Events with Two Higgs bosons Each Decaying to Two b quarks
+Introduction
+During the summer 2024, I engaged in a research internship under the guidance of Professor Rankin Dylan, focusing on the application of machine learning algorithms in analyzing large datasets using ROOT. ROOT is a powerful tool in the field of data analysis, widely used in particle physics for processing and visualizing large arrays of data. This report summarizes the progress, and insights gained from the ongoing internship, specifically through a structured tutorial comprising three key exercises designed to mimic common ROOT usage scenarios.
